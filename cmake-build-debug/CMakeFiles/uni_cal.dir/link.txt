@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/uni_cal.dir/main.c.o CMakeFiles/uni_cal.dir/basic_cal.c.o CMakeFiles/uni_cal.dir/index.c.o CMakeFiles/uni_cal.dir/advance_cal.c.o  -o uni_cal 
